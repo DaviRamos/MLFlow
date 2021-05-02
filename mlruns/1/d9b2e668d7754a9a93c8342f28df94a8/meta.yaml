@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Onderive/Particular/onedrive/Projetos/python/mlflow2/mlflow2/mlruns/1/d9b2e668d7754a9a93c8342f28df94a8/artifacts
+end_time: 1619730658515
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d9b2e668d7754a9a93c8342f28df94a8
+run_uuid: d9b2e668d7754a9a93c8342f28df94a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1619730655664
+status: 3
+tags: []
+user_id: dramos

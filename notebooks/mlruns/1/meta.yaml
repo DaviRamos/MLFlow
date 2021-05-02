@@ -1,0 +1,4 @@
+artifact_location: file:///mnt/d/Onderive/Particular/onedrive/Projetos/python/mlflow2/mlflow2/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: house-prices-eda
